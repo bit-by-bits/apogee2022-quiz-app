@@ -1,2 +1,2 @@
 # apogee-quiz-app
-Bunch of basic templates for a quiz app for APOGEE 2022 using vanilla HTML and CSS
+Bunch of basic templates for an online Quiz App for APOGEE'22 using vanilla HTML and CSS.
